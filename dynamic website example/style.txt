@@ -1,0 +1,72 @@
+.login-box {
+    width: 300px;
+    margin: 120px auto;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 8px;
+    text-align: rightside;
+}
+.login-box input {
+    width: 90%;
+    padding: 8px;
+    margin: 10px 0;
+}
+.section-img{
+    width: 100%;
+    max-width: 400px;
+    display: 15px auto;
+    border-radius: 8px;
+    
+}
+nav u1 {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+nav u1 li {
+    margin-right: 20px;
+}
+nav u1 li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav u1 li a:hover {
+    text-decoration: underline;
+}
+.logout-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
+heading h1{
+    margin: 0;
+
+}
+nav {
+    margin-top: 15px;
+}
+.home-big {
+    background-color: grey;
+}
+-about-bg {
+    background-color: lightpink;
+}
+.services-bng {
+    background-color: lightgreen;
+}
+.contact-bg {
+    background-color:lightskyblue;
+}
+body {
+    transition: background-color 0.4s ease;
+}
+ 
